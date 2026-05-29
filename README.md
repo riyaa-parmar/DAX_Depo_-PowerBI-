@@ -132,6 +132,15 @@ This project was developed in Power BI as part of the DAX Depot assignment. The 
 * Microsoft Power BI Desktop
 * DAX (Data Analysis Expressions)
 
-## 👤 Author
+```
 
-Riya Parmar
+## 👩‍💻 Author
+
+**Riya Parmar**
+
+GitHub:  
+https://github.com/riyaa-parmar
+
+---
+
+⭐ If you find these projects useful, consider **starring the repository**!
